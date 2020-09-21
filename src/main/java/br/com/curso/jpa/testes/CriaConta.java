@@ -15,8 +15,8 @@ public class CriaConta {
 
 		Conta conta = new Conta();
 		conta.setTitular("Joao Cara de Jose");
-		conta.setAgencia(0055);
-		conta.setNumero(454);
+		conta.setAgencia(335);
+		conta.setNumero(45334);
 
 		em.getTransaction().begin();
 
